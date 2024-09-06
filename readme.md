@@ -24,7 +24,8 @@ The core code consists of three parts, as shown in the "code/code" directory:
      - MLP.py
 
 3. Classification:
-   - Script: Enhance_classifier.py
+   - Script:
+     - Enhance_classifier.py
 
 Execution Commands:
 To reproduce the results of EnhanceGAN, execute the following commands sequentially:
