@@ -1,7 +1,10 @@
-This repository contains the data and code for the paper named "Ying-Zhang_2.pdf".
+This repository contains the data and code for the EnhanceGAN algorithm".
 
 Install
-Install dependencies with pip install -r requirements.txt
+Install dependencies with:
+```
+pip install -r requirements.txt
+```
 
 Datasets
 Datasets used in this study are selected from UCI and KEEL dataset repositories, as shown in the "data" directory.
@@ -24,7 +27,7 @@ The core code consists of three parts, as shown in the "code/code" directory:
    - Script: Enhance_classifier.py
 
 Execution Commands:
-To reproduce the results published in the paper, execute the following commands sequentially:
+To reproduce the results of EnhanceGAN, execute the following commands sequentially:
 ```
 python EnhanceGAN_generate.py
 python EnhanceGAN_MCMC.py
