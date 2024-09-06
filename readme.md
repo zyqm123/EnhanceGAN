@@ -11,7 +11,7 @@ The core code consists of three parts, as shown in the "code/code" directory:
 
 1. Data Generation:
    - Script: 
-	-EnhanceGAN_generate.py
+	- EnhanceGAN_generate.py
 
 2. MCMC Sampling:
    - Scripts:
