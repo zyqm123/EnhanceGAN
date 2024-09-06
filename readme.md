@@ -1,4 +1,4 @@
-This repository contains the data and code for the EnhanceGAN algorithm".
+This repository contains the data and code for the EnhanceGAN algorithm.
 
 Install
 Install dependencies with:
